@@ -3,6 +3,7 @@ Themes For The Popular Extension Called Night Tab (nightTab)
 
 ### Sections
 [1 - How To Install Themes](#1-how-to-install-themes)
+
 [2 - Themes](#2-themes)
 
 ### nightTab Github
