@@ -8,7 +8,7 @@ Themes For The Popular Extension Called Night Tab (nightTab)
 ### nightTab Github
 [Github](https://github.com/zombieFox/nightTab)
 
-##1 How To Install Themes
+## 1 How To Install Themes
 To Install The Themes Follow This Guide
 
 1. Click The Options Button (Gear Icon In The Top Right)
