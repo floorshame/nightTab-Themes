@@ -24,4 +24,4 @@ To Install The Themes Follow This Guide
 ## 2 Themes
 
 # Blue Swirl
-![Not Loaded](/Blue%20Swirl/screenshot.PNG)
+![Not Loaded](/Blue%Swirl/screenshot.PNG)
