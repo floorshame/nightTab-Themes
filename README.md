@@ -25,4 +25,4 @@ To Install The Themes Follow This Guide
 
 ### 2.1 Blue Swirl
 ![Not Loaded](/BlueSwirl/Screenshot.PNG)
-> [Download](https://github.com/hippostars/nightTab-Themes/blueswirl.json)
+> [Download](https://hippostars.github.io/hippostars/nightTab-Themes/blueswirl.json)
