@@ -11,7 +11,7 @@ To Install The Themes Follow This Guide
 ![Not Loaded](/Tutorial/1.PNG)
 
 2. Scroll Down And Click *Data*
-![Not Loaded](/Tutorial/1.PNG)
+![Not Loaded](/Tutorial/2.PNG)
 
 3. Click *Import From File* Then Choose The .json File You Downloaded 
-![Not Loaded](/Tutorial/1.PNG)
+![Not Loaded](/Tutorial/3.PNG)
