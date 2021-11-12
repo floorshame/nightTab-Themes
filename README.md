@@ -23,6 +23,14 @@ To Install The Themes Follow This Guide
 
 ## 2 Themes
 
-### 2.1 Blue Swirl
+### Blue Swirl
 ![Not Loaded](/BlueSwirl/Screenshot.PNG)
+> [Download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/hippostars/nightTab-Themes/blob/main/BlueSwirl/blueswirl.json)
+
+### Clean Mint
+![Not Loaded](/CleanMint/Screenshot.PNG)
+> [Download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/hippostars/nightTab-Themes/blob/main/BlueSwirl/blueswirl.json)
+
+### Forest Flush
+![Not Loaded](/ForestFlush/Screenshot.PNG)
 > [Download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/hippostars/nightTab-Themes/blob/main/BlueSwirl/blueswirl.json)
