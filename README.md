@@ -34,3 +34,7 @@ To Install The Themes Follow This Guide
 ### Forest Flush
 ![Not Loaded](/ForestFlush/Screenshot.PNG)
 > [Download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/hippostars/nightTab-Themes/blob/main/BlueSwirl/blueswirl.json)
+
+### Nord Snow
+![Not Loaded](/NordSnow/Screenshot.PNG)
+> [Download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/hippostars/nightTab-Themes/blob/main/BlueSwirl/blueswirl.json)
