@@ -25,7 +25,11 @@ To Install The Themes Follow This Guide
 
 ## 2 Subbmiting Themes
 
-If You Want To Submit A Skin To Be Added To This Github Please Goto Issues And
+If You Want To Submit A Skin To Be Added To This Github Please Goto Issues And Make An Issue.
+It Must Include
+- A Screenshot Of The Theme
+- A Data File Of The Theme
+If Your Skin Is Not Appropriate Then It Will Be Instantly Denied
 
 ## 3 Themes
 
@@ -43,4 +47,8 @@ If You Want To Submit A Skin To Be Added To This Github Please Goto Issues And
 
 ### Nord Snow
 ![Not Loaded](/NordSnow/Screenshot.PNG)
+> [Download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/hippostars/nightTab-Themes/blob/main/BlueSwirl/blueswirl.json)
+
+### Black White
+![Not Loaded](/BlackWhite/Screenshot.PNG)
 > [Download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/hippostars/nightTab-Themes/blob/main/BlueSwirl/blueswirl.json)
