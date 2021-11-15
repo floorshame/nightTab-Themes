@@ -1,5 +1,6 @@
 # nightTab-Themes
 Themes For The Popular Extension Called Night Tab (nightTab)
+DOWNLOADS DON'T WORK THEY'RE BEING FIXED!
 
 ### Sections
 [1 - How To Install Themes](#1-how-to-install-themes)
