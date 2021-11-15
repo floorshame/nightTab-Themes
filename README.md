@@ -52,3 +52,7 @@ If Your Skin Is Not Appropriate Then It Will Be Instantly Denied
 ### Black White
 ![Not Loaded](/BlackWhite/Screenshot.PNG)
 > [Download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/hippostars/nightTab-Themes/blob/main/BlueSwirl/blueswirl.json)
+
+### Galaxy Fall
+![Not Loaded](/GalaxyFall/Screenshot.PNG)
+> [Download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/hippostars/nightTab-Themes/blob/main/BlueSwirl/blueswirl.json)
