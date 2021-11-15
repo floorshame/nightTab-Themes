@@ -58,6 +58,6 @@ If Your Skin Is Not Appropriate Then It Will Be Instantly Denied
 ![Not Loaded](/GalaxyFall/Screenshot.PNG)
 > [Download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/hippostars/nightTab-Themes/blob/main/BlueSwirl/blueswirl.json)
 
-### Peach Lite
-![Not Loaded](/PeachLite/Screenshot.PNG)
+### Peach Lite  
+![Not Loaded](/PeachLIite/Screenshot.PNG)
 > [Download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/hippostars/nightTab-Themes/blob/main/BlueSwirl/blueswirl.json)
