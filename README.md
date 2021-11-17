@@ -65,3 +65,8 @@ If Your Skin Is Not Appropriate Then It Will Be Instantly Denied
 ### Peach Pro  
 ![Not Loaded](/PeachPro/Screenshot.PNG)
 > [Download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/hippostars/nightTab-Themes/blob/main/BlueSwirl/blueswirl.json)
+
+### Pop Color
+![Not Loaded](/PopColor/Screenshot.PNG)
+> [Download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/hippostars/nightTab-Themes/blob/main/BlueSwirl/blueswirl.json)
+
