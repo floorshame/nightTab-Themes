@@ -24,14 +24,6 @@ To Install The Themes Follow This Guide
 3. Click *Import From File* Then Choose The .json File You Downloaded 
 ![Not Loaded](/Tutorial/3.PNG)
 
-## 2 Subbmiting Themes
-
-If You Want To Submit A Skin To Be Added To This Github Please Goto Issues And Make An Issue.
-It Must Include
-- A Screenshot Of The Theme
-- A Data File Of The Theme
-If Your Skin Is Not Appropriate Then It Will Be Instantly Denied
-
 ## 3 Themes
 
 ### Blue Swirl
